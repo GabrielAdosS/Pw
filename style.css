@@ -7,7 +7,7 @@
   justify-content: center;
 }
 
-#container div {
+#container .teste {
     height: 100px;
     width: 34%;
     background-color: blue;
